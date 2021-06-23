@@ -35,7 +35,7 @@
   -ms-flex-align: center;
   align-items: center;
   border-bottom: 3px solid #8094a9;
-  background-color: #053157;
+  background-color: #74c69d;
   color: #f9f9f9;
   font-size: 18px;
   line-height: 1.2;
@@ -157,7 +157,7 @@
 
 .heading {
   margin-top: 10px;
-  color: #f2e8b8;
+  color: #ffffff;
   font-size: 44px;
   line-height: 1.2;
 }
@@ -171,7 +171,6 @@
   border-radius: 30px;
   background-color: #c3aa46;
   font-size: 20px;
-  color: #000;
 }
 
 .button-green.button-hover {
@@ -196,21 +195,21 @@
 
 .body {
   padding-top: 80px;
-  background-color: #053157;
+  background-color: #74c69d;
   font-family: Inconsolata, monospace;
   font-size: 18px;
   line-height: 1.2;
 }
 .purp {
   padding-top: 80px;
-  background-color: #2a5479;
+  background-color: #0c5b5c;
   font-family: Inconsolata, monospace;
   font-size: 18px;
   line-height: 1.2;
 }
 .pinkbo {
   padding-top: 80px;
-  background-color: #053157;
+  background-color: #74c69d;
   font-family: Inconsolata, monospace;
   font-size: 18px;
   line-height: 1.2;
@@ -228,7 +227,7 @@
 
 .section-sub-heading {
   margin-top: 0px;
-  color: #175285;
+  color: #74c69d;
   font-size: 20px;
   font-weight: 400;
   text-align: center;
@@ -240,7 +239,7 @@
   padding-right: 6px;
   padding-left: 6px;
   border-bottom: 2px none #5e5454;
-  color: #c1c1c1;
+  color: #ffffff;
   font-size: 50px;
   line-height: 1.2;
   text-align: center;
@@ -275,8 +274,8 @@
   margin-bottom: 15px;
   padding-right: 6px;
   padding-left: 6px;
-  border-bottom: 2px none #f9f9f9;
-  color: #c1c1c1;
+  border-bottom: 2px none #ffffff;
+  color: #ffffff;
   font-size: 50px;
   line-height: 1.2;
   text-align: center;
@@ -409,7 +408,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #053157;
+  background-color: #74c69d;
   color: #ffffff;
   font-size: 18px;
 }
@@ -444,8 +443,8 @@
   height: 1px;
   margin-top: 70px;
   margin-bottom: 70px;
-  background-color: #d4dde6;
-  color: #dadada;
+  background-color: #2275c8;
+  color: #163cac;
   font-size: 18px;
   line-height: 1.2px;
 }
@@ -673,7 +672,7 @@
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  border-bottom: 3px solid #2a5479;
+  border-bottom: 3px solid #53cedc;
   color: #2b2727;
   text-decoration: none;
 }
@@ -683,7 +682,7 @@
 }
 
 .text-highlight {
-  background-color: #053157;
+  background-color: #74c69d;
 }
 
 .text-link {
@@ -809,7 +808,7 @@
 }
 
 .roadmap-col-heading {
-  background-color: #053157;
+  background-color: #74c69d;
   color: #dadada;
   font-size: 20px;
   font-weight: 700;
@@ -1042,7 +1041,7 @@
   background-image: none;
 }
 .contact-text {
-  color: #c1c1c1;
+  color: #000000;
 }
 
 .contact-list {
@@ -1095,7 +1094,7 @@
 }
 
 .dropdown-link:hover {
-  background-color: #8094a9;
+  background-color: #74c69d;
 }
 
 .dropdown-link.w--current {
@@ -1165,7 +1164,7 @@
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
-    background-color: #053157;
+    background-color: #74c69d;
     color: #000000 !important;
     text-align: center;
   }
@@ -1230,11 +1229,11 @@
   }
 
   .menu-button {
-    background-color: #8094a9;
+    background-color: #c3aa46;
   }
 
   .menu-button.w--open {
-    background-color: #808080;
+    background-color: #c3aa46;
   }
 
   .c3hoge-col {
